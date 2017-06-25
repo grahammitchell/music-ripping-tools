@@ -1,0 +1,9 @@
+#!/usr/bin/perl -w
+
+use My_Utils::Censorship;
+
+foreach $line ( <> )
+{
+	$line = censor($line,'XXXX');
+	print $line;
+}
