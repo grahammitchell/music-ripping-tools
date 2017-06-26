@@ -1,7 +1,8 @@
+Test corpus to make sure my lyrics cursing flagger gets various test cases correctly.
 This is a test of this thing.
 I like to accumulate goods.
 And fuck women.
-Though I've never pissed on one before, I do take a shit once in a while.
+I don't want to have pissed on one, but I do take a shit once in a while.
 Don't you agree?
 Let's call Jackie Onassis and ask her if she'd like to fuck.
 "What the FUCKING HELL?!?"
